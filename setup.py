@@ -7,6 +7,6 @@ setup(name='matlab',
       description='Matlab for python',
       author='Raymond Jacobson',
       author_email='me@raymondjacobson.com',
-      url='https://github.com/raymondjacobson/matlab',
-      packages=['distutils', 'distutils.command'],
+      url='http://github.com/raymondjacobson/matlab',
+      packages=[''],
      )

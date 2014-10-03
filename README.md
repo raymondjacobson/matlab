@@ -1,6 +1,11 @@
 # Matlab
 ### For all of your matlab needs in python
 
+```shell
+
+pip install matlab
+
+```
 ```python
 
 import matlab
