@@ -9,3 +9,5 @@ matlab.title("Some graph")
 matlab.show()
 
 ```
+
+In actuality, all this is is a container for numpy & pylab
